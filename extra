@@ -96,7 +96,7 @@
 
         let yesScale = 1;
         const messages = [
-            "No", "Are you sure?", "Sapana ji, please?", "Pukka Pukka??", 
+            "No", "Are you sure?", "Madam ji, please?", "Pukka Pukka??", 
             "Think again!", "Dil tod doge?", "I'm gonna cry...", 
             "Look at the cute cat!", "Just click Yes already!", "Pretty please? ❤️"
         ];
